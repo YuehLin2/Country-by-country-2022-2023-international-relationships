@@ -1,0 +1,281 @@
+ALN	Aland
+AFG	Afghanistan
+XQZ	Akrotiri
+ALB	Albania
+DZA	Algeria
+ASM	American Samoa
+AND	Andorra
+AGO	Angola
+AIA	Anguilla
+ATA	Antarctica
+ATG	Antigua and Barbuda
+ARG	Argentina
+ARM	Armenia
+ABW	Aruba
+XAC	Ashmore and Cartier Islands
+AUS	Australia
+AUT	Austria
+AZE	Azerbaijan
+BHS	bahamas
+BHR	Bahrain
+XBK	Baker Island
+BGD	Bangladesh
+BRB	Barbados
+XBI	Bassas da India
+BLR	Belarus
+BEL	Belgium
+BLZ	Belize
+BEN	Benin
+BMU	Bermuda
+BTN	Bhutan
+BON	Bonaire, Sint Eustatius and Saba
+BOL	bolivia (plurinational state of)
+BIH	Bosnia and Herzegovina
+BWA	Botswana
+BVT	Bouvet Island
+BRA	Brazil
+IOT	British Indian Ocean Territory
+VGB	British Virgin Islands
+BRN	brunei darussalam
+BGR	Bulgaria
+BFA	Burkina Faso
+MMR	Burma
+BDI	Burundi
+CPV	Cabo Verde
+KHM	Cambodia
+CMR	Cameroon
+CAN	Canada
+CYM	Cayman Islands
+CAF	Central African Republic
+TCD	Chad
+CHL	Chile
+CHN	China
+CXR	Christmas Island
+CPT	Clipperton Island
+CCK	Cocos (Keeling) Islands
+COL	Colombia
+COM	Comoros
+COD	democratic republic of the congo
+COG	congo
+COK	Cook Islands
+XCS	Coral Sea Islands
+CRI	Costa Rica
+CIV	Cote d'Ivoire
+HRV	Croatia
+CUB	Cuba
+CUW	Curacao
+CYP	Cyprus
+CZE	Czechia
+DNK	Denmark
+XXD	Dhekelia
+DJI	Djibouti
+DMA	Dominica
+DOM	Dominican Republic
+ECU	Ecuador
+EGY	Egypt
+SLV	El Salvador
+GNQ	Equatorial Guinea
+ERI	Eritrea
+EST	Estonia
+SWZ	Eswatini
+ETH	Ethiopia
+XEU	Europa Island
+FLK	Falkland Islands (Islas Malvinas)
+FRO	Faroe Islands
+FJI	Fiji
+FIN	Finland
+FRA	France
+-	France, Metropolitan
+GUF	French Guiana
+PYF	French Polynesia
+ATF	French Southern and Antarctic Lands
+GAB	Gabon
+GMB	gambia
+XGZ	Gaza Strip
+GEO	Georgia
+DEU	Germany
+GHA	Ghana
+GIB	Gibraltar
+XGL	Glorioso Islands
+GRC	Greece
+GRL	Greenland
+GRD	Grenada
+GLP	Guadeloupe
+GUM	Guam
+GTM	Guatemala
+GGY	Guernsey
+GIN	Guinea
+GNB	Guinea-Bissau
+GUY	Guyana
+HTI	Haiti
+HMD	Heard Island and McDonald Islands
+VAT	Holy See (Vatican City)
+HND	Honduras
+HKG	Hong Kong
+XHO	Howland Island
+HUN	Hungary
+ISL	Iceland
+IND	India
+IDN	Indonesia
+IRN	iran (islamic republic of)
+IRQ	Iraq
+IRL	Ireland
+IMN	Isle of Man
+ISR	Israel
+ITA	Italy
+JAM	Jamaica
+XJM	Jan Mayen
+JPN	Japan
+XJV	Jarvis Island
+JEY	Jersey
+XJA	Johnston Atoll
+JOR	Jordan
+XJN	Juan de Nova Island
+KAZ	Kazakhstan
+KEN	Kenya
+XKR	Kingman Reef
+KIR	Kiribati
+PRK	democratic people's republic of korea
+KOR	republic of korea
+XKS	Kosovo
+KWT	Kuwait
+KGZ	Kyrgyzstan
+LAO	lao people's democratic republic
+LVA	Latvia
+LBN	Lebanon
+LSO	Lesotho
+LBR	Liberia
+LBY	Libya
+LIE	Liechtenstein
+LTU	Lithuania
+LUX	Luxembourg
+MAC	Macau
+MDG	Madagascar
+MWI	Malawi
+MYS	Malaysia
+MDV	Maldives
+MLI	Mali
+MLT	Malta
+MHL	Marshall Islands
+MTQ	Martinique
+MRT	Mauritania
+MUS	Mauritius
+MYT	Mayotte
+MEX	Mexico
+FSM	micronesia (federated states of)
+XMW	Midway Islands
+MDA	republic of moldova
+MCO	Monaco
+MNG	Mongolia
+MNE	Montenegro
+MSR	Montserrat
+MAR	Morocco
+MOZ	Mozambique
+MYR	myanmar
+NAM	Namibia
+NRU	Nauru
+XNV	Navassa Island
+NPL	Nepal
+NLD	Netherlands
+NCL	New Caledonia
+NZL	New Zealand
+NIC	Nicaragua
+NER	Niger
+NGA	Nigeria
+NIU	Niue
+NFK	Norfolk Island
+MKD	North Macedonia
+MNP	Northern Mariana Islands
+NOR	Norway
+OMN	Oman
+PAL	Palestine
+PAK	Pakistan
+PLW	Palau
+XPL	Palmyra Atoll
+PAN	Panama
+PNG	Papua New Guinea
+XPR	Paracel Islands
+PRY	Paraguay
+PER	Peru
+PHL	Philippines
+PCN	Pitcairn Islands
+POL	Poland
+PRT	Portugal
+PRI	Puerto Rico
+QAT	Qatar
+REU	Reunion
+ROU	Romania
+RUS	russian federation
+RWA	Rwanda
+BLM	Saint Barthelemy
+SHN	Saint Helena, Ascension, and Tristan da Cunha
+KNA	Saint Kitts and Nevis
+LCA	Saint Lucia
+MAF	Saint Martin
+SPM	Saint Pierre and Miquelon
+VCT	Saint Vincent and the Grenadines
+WSM	Samoa
+SMR	San Marino
+STP	Sao Tome and Principe
+SAU	Saudi Arabia
+SEN	Senegal
+SRB	Serbia
+SYC	Seychelles
+SLE	Sierra Leone
+SGP	Singapore
+SXM	Sint Maarten
+SVK	Slovakia
+SVN	Slovenia
+SLB	Solomon Islands
+SOM	Somalia
+ZAF	South Africa
+SGS	South Georgia and the Islands
+SSD	South Sudan
+ESP	Spain
+XSP	Spratly Islands
+LKA	Sri Lanka
+SDN	Sudan
+SUR	Suriname
+XSV	Svalbard
+SWE	Sweden
+CHE	Switzerland
+SYR	syrian arab republic
+TWN	Taiwan
+TJK	Tajikistan
+TZA	united republic of tanzania
+THA	Thailand
+TLS	Timor-Leste
+TGO	Togo
+TKL	Tokelau
+TON	Tonga
+TTO	Trinidad and Tobago
+XTR	Tromelin Island
+TUN	Tunisia
+TUR	turkiye
+TKM	Turkmenistan
+TCA	Turks and Caicos Islands
+TUV	Tuvalu
+UGA	Uganda
+UKR	Ukraine
+ARE	United Arab Emirates
+GBR	United Kingdom
+USA	United States
+-	United States Minor Outlying Islands
+URY	Uruguay
+UZB	Uzbekistan
+VUT	Vanuatu
+VEN	venezuela (bolivarian republic of)
+VNM	Viet nam
+VIR	Virgin Islands
+-	Virgin Islands (UK)
+-	Virgin Islands (US)
+XWK	Wake Island
+WLF	Wallis and Futuna
+XWB	West Bank
+WI	Western Sahara
+-	Western Samoa
+-	World
+YEM	Yemen
+-	Zaire
+ZMB	Zambia
+ZWE	Zimbabwe
